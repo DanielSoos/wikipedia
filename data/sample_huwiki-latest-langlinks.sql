@@ -1,2 +1,0 @@
-﻿(1117084,'en','Karl Mai'),(515922,'en','Karl Malden'),(18645,'en','Karl Mannheim'),(218823,'en','Karl Markovics'),(57442,'en','Karl Marx'),
-(3295,'en','Kilometre'),(908047,'en','Kilowatt hour'),(29883,'en','Kilroy was here'),(1128030,'en','Kilt'),(596782,'en','Kim')
